@@ -16,6 +16,10 @@ public class PhoneInfo {
 	public void osName() {
 		System.out.println("osName - Android");
 	}
+	public void os() {
+		System.out.println("os");
+	}
+
 	public static void main(String[] args) {
 		PhoneInfo a = new PhoneInfo();
 		a.phoneName();
@@ -23,6 +27,7 @@ public class PhoneInfo {
 		a.Camera();
 		a.storage();
 		a.osName();
+		a.os();
 
 	}
 
