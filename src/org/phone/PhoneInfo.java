@@ -8,7 +8,7 @@ public class PhoneInfo {
 		System.out.println("phoneMieiNum - 1234");
 	}
 	public void Camera() {
-		System.out.println("Camera - 20MP");
+		System.out.println("Camera - 10MP");
 	}
 	public void storage() {
 		System.out.println("storage - 30GB");
